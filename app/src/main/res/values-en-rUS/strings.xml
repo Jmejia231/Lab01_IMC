@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="Recomendacion_1">Underweight (Below 18.5)</string>
+    <string name="titulo">BMI Calculator</string>
+    <string name="label_altura">Height (m):</string>
+    <string name="label_peso">Weight (kg):</string>
+    <string name="boton_Calcular">Calculate BMI</string>
+    <string name="Recomendacion_2">Normal (18.5 - 24.9)</string>
+    <string name="Recomendacion_3">Overweight (25.0 - 29.9)</string>
+    <string name="Recomendacion_4">Obesity (30.0 and Above)</string>
+</resources>

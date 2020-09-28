@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculador IMC</string>
+    <string name="Recomendacion_1">Bajo de Peso (Por Debajo de 18.5)</string>
+    <string name="Recomendacion_2">Normal (18.5 - 24.9)</string>
+    <string name="Recomendacion_3">SobrePeso (25.0 - 29.9)</string>
+    <string name="Recomendacion_4">Obesidad (30.0 o mas)</string>
+    <string name="titulo">CALCULADOR IMC</string>
+    <string name="label_altura">Altura (m):</string>
+    <string name="label_peso">Peso (kg):</string>
+    <string name="boton_Calcular">Calcular IMC</string>
+</resources>
